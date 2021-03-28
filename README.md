@@ -6,4 +6,4 @@ This project is created for Codecademy's course purposes.
 * CSS
 
 ## How to run this website?
-Navigate to: [https://ma-xwell.github.io/](Ma-xwell.github.io)
+Navigate to: [https://ma-xwell.github.io/](https://ma-xwell.github.io/)
